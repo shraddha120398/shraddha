@@ -8,11 +8,16 @@ public class assignment {
 		//call from same class   
 		//static and non-static methods
 		
-		assignment s=new assignment();             
+		assignment s=new assignment(); 
+		
 		s.addition();
+		
 		s.addition(50, 43);
-		substraction();
-		substraction(75, 78);
+		
+		
+	substraction();
+	
+	substraction(75, 78);
 		
 		//call from another class
 		//static and non-static methods
